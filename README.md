@@ -1,2 +1,4 @@
 # Analysis-of-U.S.-airline
-This analysis aims to examine trends in U.S. airline routes and fares from 1993-2024, focusing on how fares, passenger volumes, and market competition have changed. 
+The U.S. airline industry has undergone significant changes over the last three decades due to economic shifts, market competition, and changing passenger preferences. To stay competitive, airlines must understand how fares, demand, and market share have evolved from 1993 to 2024. Analyzing these trends can help airlines optimize routes, adjust pricing, and target underserved markets.
+
+This analysis aims to examine trends in U.S. airline routes and fares from 1993-2024, focusing on how fares, passenger volumes, and market competition have changed. It will quantify the effects of carrier market share, route distance, and fare competitiveness on passenger demand. The report will provide actionable insights to help airlines optimize profitability and pricing strategies.
